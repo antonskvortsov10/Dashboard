@@ -1,0 +1,9 @@
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.Dashboard.resources
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.Properties.Resources.resources
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\bin\Debug\DashboardDesign.exe.config
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\bin\Debug\DashboardDesign.exe
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\bin\Debug\DashboardDesign.pdb
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.exe
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.pdb
