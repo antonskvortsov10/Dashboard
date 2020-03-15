@@ -16,5 +16,10 @@ namespace DashboardDesign
         {
             InitializeComponent();
         }
+
+        private void MenuButton_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
