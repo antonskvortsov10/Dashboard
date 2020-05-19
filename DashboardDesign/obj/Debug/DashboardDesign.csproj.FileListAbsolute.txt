@@ -7,3 +7,4 @@ C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\bin\Debug\DashboardD
 C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\bin\Debug\DashboardDesign.pdb
 C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.exe
 C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.pdb
+C:\Users\Anton\source\repos\DashboardDesign\DashboardDesign\obj\Debug\DashboardDesign.csproj.CoreCompileInputs.cache
