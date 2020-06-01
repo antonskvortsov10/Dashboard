@@ -78,6 +78,25 @@
             this.label17 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.pictureBox14 = new System.Windows.Forms.PictureBox();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label19 = new System.Windows.Forms.Label();
+            this.pictureBox15 = new System.Windows.Forms.PictureBox();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.pictureBox16 = new System.Windows.Forms.PictureBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.pictureBox17 = new System.Windows.Forms.PictureBox();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.button8 = new System.Windows.Forms.Button();
+            this.label22 = new System.Windows.Forms.Label();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
+            this.button12 = new System.Windows.Forms.Button();
+            this.button13 = new System.Windows.Forms.Button();
+            this.button14 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
@@ -99,6 +118,13 @@
             this.panel8.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
+            this.panel9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
+            this.panel10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
+            this.panel11.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -680,12 +706,252 @@
             this.pictureBox12.TabIndex = 8;
             this.pictureBox12.TabStop = false;
             // 
+            // panel9
+            // 
+            this.panel9.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.panel9.Controls.Add(this.pictureBox14);
+            this.panel9.Controls.Add(this.label18);
+            this.panel9.Controls.Add(this.label19);
+            this.panel9.Controls.Add(this.pictureBox15);
+            this.panel9.Location = new System.Drawing.Point(786, 255);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(250, 285);
+            this.panel9.TabIndex = 8;
+            // 
+            // pictureBox14
+            // 
+            this.pictureBox14.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.pictureBox14.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox14.Image")));
+            this.pictureBox14.Location = new System.Drawing.Point(0, 127);
+            this.pictureBox14.Name = "pictureBox14";
+            this.pictureBox14.Size = new System.Drawing.Size(250, 158);
+            this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox14.TabIndex = 10;
+            this.pictureBox14.TabStop = false;
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label18.ForeColor = System.Drawing.Color.DimGray;
+            this.label18.Location = new System.Drawing.Point(15, 51);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(224, 57);
+            this.label18.TabIndex = 8;
+            this.label18.Text = "Lorem Ipsum is simply dummy text\r\nof the printing and typesetting\r\nindustry.";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Font = new System.Drawing.Font("Segoe UI", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel, ((byte)(204)));
+            this.label19.ForeColor = System.Drawing.Color.Black;
+            this.label19.Location = new System.Drawing.Point(57, 22);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(158, 23);
+            this.label19.TabIndex = 9;
+            this.label19.Text = "Item Sold Amount";
+            // 
+            // pictureBox15
+            // 
+            this.pictureBox15.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox15.Image")));
+            this.pictureBox15.Location = new System.Drawing.Point(19, 16);
+            this.pictureBox15.Name = "pictureBox15";
+            this.pictureBox15.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox15.TabIndex = 8;
+            this.pictureBox15.TabStop = false;
+            // 
+            // panel10
+            // 
+            this.panel10.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.panel10.Controls.Add(this.pictureBox16);
+            this.panel10.Controls.Add(this.label20);
+            this.panel10.Controls.Add(this.label21);
+            this.panel10.Controls.Add(this.pictureBox17);
+            this.panel10.Location = new System.Drawing.Point(1052, 255);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(250, 285);
+            this.panel10.TabIndex = 9;
+            // 
+            // pictureBox16
+            // 
+            this.pictureBox16.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.pictureBox16.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox16.Image")));
+            this.pictureBox16.Location = new System.Drawing.Point(0, 127);
+            this.pictureBox16.Name = "pictureBox16";
+            this.pictureBox16.Size = new System.Drawing.Size(250, 158);
+            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox16.TabIndex = 10;
+            this.pictureBox16.TabStop = false;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label20.ForeColor = System.Drawing.Color.DimGray;
+            this.label20.Location = new System.Drawing.Point(15, 51);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(224, 57);
+            this.label20.TabIndex = 8;
+            this.label20.Text = "Lorem Ipsum is simply dummy text\r\nof the printing and typesetting\r\nindustry.";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Segoe UI", 17F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Pixel, ((byte)(204)));
+            this.label21.ForeColor = System.Drawing.Color.Black;
+            this.label21.Location = new System.Drawing.Point(57, 22);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(158, 23);
+            this.label21.TabIndex = 9;
+            this.label21.Text = "Item Sold Amount";
+            // 
+            // pictureBox17
+            // 
+            this.pictureBox17.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox17.Image")));
+            this.pictureBox17.Location = new System.Drawing.Point(19, 16);
+            this.pictureBox17.Name = "pictureBox17";
+            this.pictureBox17.Size = new System.Drawing.Size(32, 32);
+            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox17.TabIndex = 8;
+            this.pictureBox17.TabStop = false;
+            // 
+            // panel11
+            // 
+            this.panel11.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.panel11.Controls.Add(this.button14);
+            this.panel11.Controls.Add(this.button13);
+            this.panel11.Controls.Add(this.button12);
+            this.panel11.Controls.Add(this.button11);
+            this.panel11.Controls.Add(this.button10);
+            this.panel11.Controls.Add(this.button9);
+            this.panel11.Controls.Add(this.button8);
+            this.panel11.Controls.Add(this.label22);
+            this.panel11.Location = new System.Drawing.Point(786, 555);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(516, 127);
+            this.panel11.TabIndex = 10;
+            // 
+            // button8
+            // 
+            this.button8.BackColor = System.Drawing.Color.White;
+            this.button8.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button8.BackgroundImage")));
+            this.button8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button8.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.button8.FlatAppearance.BorderSize = 10;
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button8.Location = new System.Drawing.Point(12, 70);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(51, 54);
+            this.button8.TabIndex = 12;
+            this.button8.UseVisualStyleBackColor = false;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label22.ForeColor = System.Drawing.Color.DimGray;
+            this.label22.Location = new System.Drawing.Point(8, 10);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(463, 57);
+            this.label22.TabIndex = 11;
+            this.label22.Text = "Lorem Ipsum has been the industry\'s standard dummy text ever since the\r\n1500s, wh" +
+    "en an unknown printer took a galley of type and scrambled it to\r\nmake a type spe" +
+    "cimen book.";
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.button9.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button9.BackgroundImage")));
+            this.button9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button9.FlatAppearance.BorderColor = System.Drawing.Color.PaleTurquoise;
+            this.button9.FlatAppearance.BorderSize = 10;
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Location = new System.Drawing.Point(83, 70);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(51, 54);
+            this.button9.TabIndex = 13;
+            this.button9.UseVisualStyleBackColor = false;
+            // 
+            // button10
+            // 
+            this.button10.BackColor = System.Drawing.Color.Aqua;
+            this.button10.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button10.BackgroundImage")));
+            this.button10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button10.FlatAppearance.BorderColor = System.Drawing.Color.Aqua;
+            this.button10.FlatAppearance.BorderSize = 10;
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button10.Location = new System.Drawing.Point(154, 70);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(51, 54);
+            this.button10.TabIndex = 14;
+            this.button10.UseVisualStyleBackColor = false;
+            // 
+            // button11
+            // 
+            this.button11.BackColor = System.Drawing.Color.Azure;
+            this.button11.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button11.BackgroundImage")));
+            this.button11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button11.FlatAppearance.BorderColor = System.Drawing.Color.Azure;
+            this.button11.FlatAppearance.BorderSize = 10;
+            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button11.Location = new System.Drawing.Point(224, 70);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(51, 54);
+            this.button11.TabIndex = 15;
+            this.button11.UseVisualStyleBackColor = false;
+            // 
+            // button12
+            // 
+            this.button12.BackColor = System.Drawing.Color.DarkTurquoise;
+            this.button12.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button12.BackgroundImage")));
+            this.button12.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button12.FlatAppearance.BorderColor = System.Drawing.Color.DarkTurquoise;
+            this.button12.FlatAppearance.BorderSize = 10;
+            this.button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button12.Location = new System.Drawing.Point(294, 70);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(51, 54);
+            this.button12.TabIndex = 16;
+            this.button12.UseVisualStyleBackColor = false;
+            // 
+            // button13
+            // 
+            this.button13.BackColor = System.Drawing.Color.SpringGreen;
+            this.button13.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button13.BackgroundImage")));
+            this.button13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button13.FlatAppearance.BorderColor = System.Drawing.Color.SpringGreen;
+            this.button13.FlatAppearance.BorderSize = 10;
+            this.button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button13.Location = new System.Drawing.Point(362, 70);
+            this.button13.Name = "button13";
+            this.button13.Size = new System.Drawing.Size(51, 54);
+            this.button13.TabIndex = 17;
+            this.button13.UseVisualStyleBackColor = false;
+            // 
+            // button14
+            // 
+            this.button14.BackColor = System.Drawing.Color.Yellow;
+            this.button14.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button14.BackgroundImage")));
+            this.button14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button14.FlatAppearance.BorderColor = System.Drawing.Color.Yellow;
+            this.button14.FlatAppearance.BorderSize = 10;
+            this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button14.Location = new System.Drawing.Point(430, 70);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(51, 54);
+            this.button14.TabIndex = 18;
+            this.button14.UseVisualStyleBackColor = false;
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(1325, 749);
+            this.Controls.Add(this.panel11);
+            this.Controls.Add(this.panel10);
+            this.Controls.Add(this.panel9);
             this.Controls.Add(this.panel8);
             this.Controls.Add(this.panel7);
             this.Controls.Add(this.panel6);
@@ -726,6 +992,16 @@
             this.panel8.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -781,5 +1057,24 @@
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label17;
         private System.Windows.Forms.PictureBox pictureBox13;
+        private System.Windows.Forms.Panel panel9;
+        private System.Windows.Forms.PictureBox pictureBox14;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.PictureBox pictureBox15;
+        private System.Windows.Forms.Panel panel10;
+        private System.Windows.Forms.PictureBox pictureBox16;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.PictureBox pictureBox17;
+        private System.Windows.Forms.Panel panel11;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button9;
+        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button button11;
+        private System.Windows.Forms.Button button12;
+        private System.Windows.Forms.Button button14;
+        private System.Windows.Forms.Button button13;
     }
 }
